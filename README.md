@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitplants
-- 👀 I’m interested in Data Science, AI, and Database Management!
-- 🌱 I’m currently learning the intricacies of Python 3.0.
+- 👀 I’m interested in Data Science, AI, and Database Management.
+- 🌱 I’m enjoying Python and SQL.
 - 💞️ I’m looking to collaborate on any project involving research and development for science, education, healthcare, or business.
 - ⚡ Fun fact: My hobbies are 3D printing, bird watching, and growing every kind of plant.
 
