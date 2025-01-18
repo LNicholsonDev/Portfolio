@@ -9,7 +9,7 @@ Beyond coding, I find balance and inspiration in gardening, 3D printing, and bir
 
 ## Projects 
 DEV160 Repository – Collection of small scripts written to learn Python.  
-**Link**: [Repository Link]( https://github.com/gitplants/Dev160)
+**Link**: [DEV160]( https://github.com/gitplants/Dev160)
 
 ## Skills – 
 - **Favorite Programming Languages:** Python
