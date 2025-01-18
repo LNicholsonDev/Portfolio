@@ -1,8 +1,8 @@
 # Leah’s Portfolio 
 
 ## About Me 
-Hello! I'm Leah, a dedicated software developer and data analyst based in Washington. With a passion for coding and an eye for detail, I've committed myself to developing innovative and efficient solutions using Python and SQL.
-I am excited to showcase my work in this portfolio. My interest in software development is driven by a desire to tackle challenging problems in healthcare, science, and AI research.
+Hello! I'm Leah, a dedicated software developer and data analyst based in Washington. I am excited to showcase my work in this portfolio. With a background in Biology, I returned to university to develop skills in technology. 
+My interest in software development is driven by a desire to tackle challenging problems in healthcare, science, and AI research. 
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I am enthusiastic about connecting with potential employers and collaborators who share my passions.
 
 ## Projects 
