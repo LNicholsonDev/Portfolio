@@ -1,14 +1,14 @@
 # Leah’s Portfolio 
 
 ## About Me 
-Hello! I'm <span style="color: blue;">[Leah]</span>, a dedicated software developer and data analyst based in Washington. I am excited to showcase my work in this portfolio. With a background in Biology, I returned to university to develop skills in technology. 
+Hello! I'm Leah, a dedicated software developer and data analyst based in Washington. I am excited to showcase my work in this portfolio. 
 
-My interest in software development is driven by a desire to tackle challenging problems in healthcare, science, and AI research. 
+With a background in Biology, I returned to university to develop skills in technology. My interest in software development is driven by a desire to tackle challenging problems in healthcare, science, and AI research. 
 
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I am enthusiastic about connecting with potential employers and collaborators who share my passions.
 
 ## Projects 
-<span style="color: blue;">[DEV160 Repository]</span> – Collection of small scripts written to learn Python.  
+DEV160 Repository – Collection of small scripts written to learn Python.  
 **Link**: [Repository Link]( https://github.com/gitplants/Dev160)
 
 ## Skills – 
