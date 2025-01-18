@@ -12,8 +12,7 @@ DEV160 Repository – Collection of small scripts written to learn Python.
 **Link**: [Repository Link]( https://github.com/gitplants/Dev160)
 
 ## Skills – 
-- **Programming Languages:** Python 3.0
-- **IDEs:** Microsoft Visual Studio Code, PyCharm, IDLE 
+- **Favorite Programming Languages:** Python
 - **Web Development:** HTML, CSS, WordPress 
 - **Project Management Tools:** Agile methodology, Scrum teams, Jira project management, Microsoft Visio 
 - **Data Analysis:** Statistical software and libraries, R, NumPy, mothur, Structured Query Language (SQL)
