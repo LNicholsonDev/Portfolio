@@ -11,7 +11,7 @@ Beyond coding, I find balance and inspiration in gardening, 3D printing, and bir
 DEV160 Repository – Collection of small fun scripts written to learn Python I.  
 **Link**: [DEV160]( https://github.com/gitplants/Dev160)
 
-DEV128 Repository - Collection of larger programs written to learn Python II. (160 came before 128. Odd naming, but we'll roll with it ;)
+DEV128 Repository - Collection of larger programs written to learn Python II. 
 **Link**: [https://github.com/gitplants/DEV128---Python.git]
 
 BA240 Repository - Final Regression Analysis Project
