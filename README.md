@@ -1,11 +1,12 @@
 # Leah’s Portfolio 
 
-## About Me 
-Hello! I'm glad you're here. I'm Leah, a dedicated software developer and data analyst based in Washington. I am excited to share my projects with this portfolio. <br />
-Having a background in Biology, I returned to university to develop strong skills in programming. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research.****
+## ABOUT ME
+Hello! I'm glad you're here. I am a dedicated software developer and data analyst based in Washington. I am excited to share my projects through this portfolio. <br />
+With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research. <br />
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I'm enthusiastic about connecting with potential employers and collaborators who share my passions.
 
-## Projects 
+
+## PROJECTS
 DEV160 Repository – Collection of small fun scripts written to learn Python I. <br />
 **Link**: [DEV160]( https://github.com/gitplants/Dev160)
 
@@ -13,16 +14,20 @@ DEV128 Repository - Collection of larger programs written to learn Python II. <b
 **Link**: [DEV128](https://github.com/gitplants/DEV128---Python.git)
 
 BA240 Repository - Final Regression Analysis Project<br />
-**Link**: []
+**Link**: [TBD]
 
-## Skills – 
+AI101 - Final Project Presentation
+**Link**: [TBD]
+
+
+## SKILLS
 - **Favorite Programming Languages:** Python
 - **Data Analysis:** Structured Query Language (SQL), Statistical software and libraries, R, NumPy, mothur, Regression Analysis
 - **Web Development:** HTML, CSS, WordPress 
 - **Project Management and Tools:** Agile/Scrum methodology, Jira project management, Microsoft Visio 
 
 
- ## License 
+ ## LICENSE
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License. To view a copy of this license, visit [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 <!---
