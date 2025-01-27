@@ -18,7 +18,7 @@ DEV128 Repository - Collection of larger programs written to learn Python II. <b
 BA240 Repository - Final Regression Analysis Project<br />
 **Link**: [TBD]
 
-AI101 - Final Project Presentation
+AI101 - Final Project Presentation<br />
 **Link**: [TBD]
 
 
