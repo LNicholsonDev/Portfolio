@@ -1,8 +1,10 @@
 # Leah’s Portfolio 
 
 ## ABOUT ME
-Hello! I'm glad you're here. I am a dedicated software developer and data analyst based in Washington. I am excited to share my projects through this portfolio. <br />
-With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research. <br />
+Hello! I'm glad you're here. I am a dedicated software developer and data analyst based in Washington. I am excited to share my projects through this portfolio. 
+
+With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research. 
+
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I'm enthusiastic about connecting with potential employers and collaborators who share my passions.
 
 
