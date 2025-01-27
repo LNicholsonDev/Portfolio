@@ -12,7 +12,7 @@ DEV160 Repository – Collection of small fun scripts written to learn Python I.
 **Link**: [DEV160]( https://github.com/gitplants/Dev160)
 
 DEV128 Repository - Collection of larger programs written to learn Python II. 
-**Link**: [https://github.com/gitplants/DEV128---Python.git]
+**Link**: [DEV128](https://github.com/gitplants/DEV128---Python.git)
 
 BA240 Repository - Final Regression Analysis Project
 **Link**: []
