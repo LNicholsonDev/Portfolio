@@ -19,7 +19,7 @@ BA240 Repository - Final Regression Analysis Project<br />
 **Link**: [TBD]
 
 AI101 - Final Project Presentation<br />
-**Link**: [TBD]
+**Link**: [[Youtube Video]](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
 
 
 ## SKILLS
