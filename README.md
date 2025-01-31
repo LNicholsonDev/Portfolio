@@ -16,7 +16,7 @@ DEV128 Repository - Collection of larger programs written to learn Python II. <b
 **Link**: [DEV128](https://github.com/gitplants/DEV128---Python.git)
 
 BA240 Repository - Final Regression Analysis Project<br />
-**Link**: [Regression Analysis][https://github.com/gitplants/Discrete-Math.git]
+**Link**: [Regression Analysis](https://github.com/gitplants/Discrete-Math.git)
 
 AI101 - Final Project Presentation<br />
 **Link**: [[Youtube Video]](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
