@@ -5,6 +5,8 @@ Hello! I'm glad you're here. I am a dedicated software developer and data analys
 
 With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research. 
 
+Below you will find a collection of projects - class learnings, statistical analyses, and other fun stuff.
+
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I am enthusiastic about connecting with potential employers and collaborators who share my passions. 
 
 Please feel welcome to message me with any comments or questions. Thanks for visiting!
