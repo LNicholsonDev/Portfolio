@@ -5,7 +5,7 @@ Hello! Thanks for stopping by. I'm a dedicated software developer and data analy
 
 With a background in Biology, I returned to university to develop strong programming skills. My passion for software development is driven by a desire to tackle challenging problems in bioinformatics, healthcare, and AI research. 
 
-Below you will find a collection of work - Python projects, games, statistical analyses, AI projects, and other fun stuff.
+Below you will find a collection of work - Python projects, statistical analyses, AI projects, and other fun stuff.
 
 Beyond coding, I find balance and inspiration in gardening, 3D printing, and birdwatching. I am enthusiastic about connecting with potential employers and collaborators who share my passions. 
 
