@@ -3,7 +3,7 @@
 ## ABOUT ME
 Hello! Thanks for stopping by. I'm a dedicated software developer and data analyst based in Washington state. I'm excited to share my projects through this portfolio. 
 
-With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in bioinformatics, healthcare, and AI research. 
+With a background in Biology, I returned to university to develop strong programming skills. My passion for software development is driven by a desire to tackle challenging problems in bioinformatics, healthcare, and AI research. 
 
 Below you will find a collection of projects - class learnings, statistical analyses, and other fun stuff.
 
