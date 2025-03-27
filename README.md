@@ -3,7 +3,7 @@
 ## ABOUT ME
 Hello! I'm glad you're here. I am a dedicated software developer and data analyst based in Washington state. I am excited to share my projects through this portfolio. 
 
-With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in healthcare, science, and AI research. 
+With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in bioinformatics, healthcare, and AI research. 
 
 Below you will find a collection of projects - class learnings, statistical analyses, and other fun stuff.
 
@@ -22,7 +22,7 @@ DEV128 Repository - Collection of larger programs written to learn Python II. <b
 BA240 Repository - Final Regression Analysis Project<br />
 **Link**: [Regression Analysis](https://github.com/gitplants/Discrete-Math.git)
 
-AI101 - Final Project Presentation<br />
+AI101 - Final Project - Results from Training an AI<br />
 **Link**: [Youtube Class Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
 
 
