@@ -1,7 +1,7 @@
 # Leah’s Portfolio 
 
 ## ABOUT ME
-Hello! I'm glad you're here. I am a dedicated software developer and data analyst based in Washington state. I am excited to share my projects through this portfolio. 
+Hello! Thanks for stopping by. I am a dedicated software developer and data analyst based in Washington state. I am excited to share my projects through this portfolio. 
 
 With a background in Biology, I returned to university to develop strong programming skills. My interest in software development is driven by my desire to tackle challenging problems in bioinformatics, healthcare, and AI research. 
 
