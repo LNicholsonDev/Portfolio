@@ -26,9 +26,14 @@ DEV140 - Database Theory and Design (DDL and DML)<br />
 
 
 ## SKILLS
-- **Favorite Programming Languages:** Python
-- **Data Analysis:** Structured Query Language (SQL), MySQL, SQL Server, SSMS, PostgreSQL, Statistical software and libraries, R, NumPy, mothur, Regression Analysis
-- **Web Development:** HTML, CSS, WordPress 
+- **Main Languages:** Python, R
+- **Data Analysis:** Structured Query Language (SQL), MySQL, SQL Server, SSMS, PostgreSQL, statistical libraries, NumPy, mothur, Data Cleaning, Regression Analysis, Predictive Modeling  
+- **Artificial Intelligence:** Machine Learning, Model Training and Testing, AI Prompt Engineering
+- **Data Visualization:** PowerBI, matplotlib
+- **Bioinformatics:** Biopython, Statistical Modeling, some BLAST and Nextflow  
+- **Web Development:** HTML, CSS, WordPress
+- **UI/UX**: Figma
+- **3D and Digital Design:** Adobe CSS, 3D modeling programs, 3D printing
 - **Project Management and Tools:** Agile/Scrum methodology, Jira project management, Microsoft Visio 
 
 
