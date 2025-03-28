@@ -22,7 +22,7 @@ AI101 - Final Project - Results from Training an AI<br />
 **Link**: [Youtube Class Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
 
 DEV140 - Database Theory and Design (DDL and DML)<br />
-**Link**: [DEV140]
+**Link**: [DEV140](https://github.com/gitplants/DEV140)
 
 ## SKILLS
 - **Favorite Programming Languages:** Python
