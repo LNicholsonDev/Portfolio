@@ -1,11 +1,13 @@
 # Leah’s Portfolio 
 
 ## ABOUT ME
-Hi there! I'm a dedicated software developer and data analyst based in Washington state. I'm excited to share my projects through this portfolio. With a background in biological science, research, and healthcare, I developed strong programming skills through a Python and Data Analyis Certification this year (2025). My passion for software development is driven by a desire to tackle challenging problems in these areas. 
+Hi there! I'm a dedicated software developer and data analyst based in Washington state. I'm excited to share my projects through this portfolio. 
+
+With a background in biological science, research, and healthcare, I developed strong programming skills through a programming and data analysis certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in these areas. 
 
 Below you will find a collection of my work - Python projects, statistical analyses, AI projects, SQL, database development, and other fun stuff.
 
-I am enthusiastic about connecting with potential employers and collaborators who share my passions. Please feel welcome to message me with any comments or questions. Thanks for visiting!
+I am always happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with any comments or questions. Thanks for visiting!
 
 
 ## PROJECTS
