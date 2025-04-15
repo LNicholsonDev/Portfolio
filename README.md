@@ -3,7 +3,7 @@
 ## ABOUT ME
 Hi there! I'm a dedicated software developer and data analyst based in Washington state. I'm excited to share my projects through this portfolio. 
 
-With a background in biological science, research, and healthcare, I developed strong programming skills through a programming and data analysis certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in these areas. 
+I developed strong programming skills through independent study and a programming certification this year. My passion for data science is driven by a desire to tackle challenging problems in business and science. 
 
 Below you will find a collection of my work - Python projects, statistical analyses, AI projects, SQL, database development, and other fun stuff.
 
