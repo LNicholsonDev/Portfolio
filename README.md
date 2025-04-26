@@ -26,11 +26,15 @@ AI101 - Final Project - Results from Training an AI<br />
 DEV140 - Database Theory and Design (DDL and DML)<br />
 **Link**: [DEV140](https://github.com/gitplants/DEV140)
 
+AI240 - Machine Learning (In-progress)<br />
+**Link**: [AI240](https://github.com/gitplants/AI240)
+
+
 
 ## SKILLS
 - **Main Languages:** Python, R
-- **Data Analysis and Visualization:** Structured Query Language (SQL, MySQL, SQL Server, SSMS, PostgreSQL), JupyterLab and Jupyter Notebooks, Data Cleaning, Regression Analysis, Predictive Modeling, PowerBI, matplotlib
-- **Artificial Intelligence:** Machine Learning, Model Training and Testing, AI Prompt Engineering
+- **Data Analysis and Visualization:** JupyterLab / Jupyter Notebooks, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Structured Query Language (SQL, MySQL, SQL Server, SSMS, PostgreSQL), Data Cleaning, Regression Analysis, Predictive Modeling, PowerBI
+- **AI and ML:** Model Training and Testing, AI Prompt Engineering, Algorithm Development, Multivariate Linear Regression
 - **Bioinformatics:** Statistical Modeling, mothur
 - **Web Development:** HTML, CSS, WordPress
 - **UI/UX, 3D, Digital Design:** Adobe CC, 3D modeling programs, 3D printing, Figma
