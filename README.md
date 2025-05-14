@@ -1,13 +1,15 @@
 # Leah’s Portfolio 
 
 ## ABOUT ME
-Hi there! I'm a dedicated software developer and data analyst based in Washington state. I'm excited to share my projects through this portfolio. 
+Welcome to my repository! I'm a software developer and data analyst based in Washington state. I'm excited to share my projects with you through this portfolio. 
 
-I developed strong programming skills through independent study and a programming certification this year. My passion for data science is driven by a desire to tackle challenging problems in business and science. 
+I developed strong programming skills through independent study and a programming certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in business and science. 
 
 Below you will find a collection of my work - Python projects, statistical analyses, AI projects, SQL, database development, and other fun stuff.
 
-I am always happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with any comments or questions. Thanks for visiting!
+I am happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with any comments or questions. 
+
+Thanks for visiting!
 
 
 ## PROJECTS
@@ -32,13 +34,12 @@ AI240 - Machine Learning (In-progress)<br />
 
 
 ## SKILLS
-- **Main Languages:** Python, R
-- **Data Analysis and Visualization:** JupyterLab / Jupyter Notebooks, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Structured Query Language (SQL, MySQL, SQL Server, SSMS, PostgreSQL), Data Cleaning, Regression Analysis, Predictive Modeling, PowerBI
-- **AI and ML:** Model Training and Testing, AI Prompt Engineering, Algorithm Development, Multivariate Linear Regression
-- **Bioinformatics:** Statistical Modeling, mothur
-- **Web Development:** HTML, CSS, WordPress
-- **UI/UX, 3D, Digital Design:** Adobe CC, 3D modeling programs, 3D printing, Figma
-- **Project Management and Tools:** Agile/Scrum methodology, Jira project management, Microsoft Visio 
+
+•	**Data Analysis & Programming**: Python, R, SQL (MySQL, PostgreSQL, SQL Server, SSMS), Statistical Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook, JupyterLab, ETL, SQL Joins and Data Modeling, Stored Procedures
+•	**Machine Learning & AI**: Scikit-learn, Regression Analysis, Classification Algorithms, Hypothesis Testing, Model Evaluation, Data Preprocessing, Data Cleaning
+•	**Dev Tools & Workflow**: Git, GitHub, Jira, Microsoft Visio, Agile/Scrum, Workflow Automation
+•	**Bonus Tools**:  3D Modeling, Adobe CC, Microsoft Office and Excel, WordPress, Figma, HTML, CSS, Mothur
+
 
 
  ## LICENSE
