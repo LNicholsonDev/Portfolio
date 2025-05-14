@@ -35,13 +35,17 @@ AI240 - Machine Learning (In-progress)<br />
 
 ## SKILLS
 
-•	**Data Analysis & Programming**: Python, R, SQL (MySQL, PostgreSQL, SQL Server, SSMS), Statistical Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook, JupyterLab, ETL, SQL Joins and Data Modeling, Stored Procedures <br/>
+•	**Data Analysis & Programming**: <br/>
+Python, R, SQL (MySQL, PostgreSQL, SQL Server, SSMS), Statistical Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook, JupyterLab, ETL, SQL Joins and Data Modeling, Stored Procedures <br/>
 
-•	**Machine Learning & AI**: Scikit-learn, Regression Analysis, Classification Algorithms, Hypothesis Testing, Model Evaluation, Data Preprocessing, Data Cleaning <br/>
+•	**Machine Learning & AI**: <br/>
+Scikit-learn, Regression Analysis, Classification Algorithms, Hypothesis Testing, Model Evaluation, Data Preprocessing, Data Cleaning <br/>
 
-•	**Dev Tools & Workflow**: Git, GitHub, Jira, Microsoft Visio, Agile/Scrum, Workflow Automation <br/>
+•	**Dev Tools & Workflow**: <br/>
+Git, GitHub, Jira, Microsoft Visio, Agile/Scrum, Workflow Automation <br/>
 
-•	**Bonus Tools**:  3D Modeling, Adobe CC, Microsoft Office and Excel, WordPress, Figma, HTML, CSS, Mothur <br/>
+•	**Bonus Tools**:  <br/>
+3D Modeling, Adobe CC, Microsoft Office and Excel, WordPress, Figma, HTML, CSS, Mothur <br/>
 
 
 
