@@ -7,7 +7,7 @@ I developed strong programming skills through independent study and a programmin
 
 Below you will find a collection of my work - Python projects, ML models, statistical analyses, SQL, database development, and other fun stuff.
 
-I am happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with any comments or questions. 
+I am happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with comments or questions. 
 
 Thanks for visiting!
 
