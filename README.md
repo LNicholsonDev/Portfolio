@@ -1,7 +1,7 @@
 # Leah’s Portfolio 
 
 ## ABOUT ME
-Welcome to my repository! I'm a software developer and data analyst based in Washington state. I'm excited to share my projects with you through this portfolio. 
+Welcome to my repository! I'm a data analyst and developer based in Washington state. I'm excited to share my projects with you through this portfolio. 
 
 I developed strong programming skills through independent study and a programming certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in business and science. 
 
@@ -39,17 +39,13 @@ Final Project - Results from Training an AI<br />
 
 ## SKILLS
 
-•	**Data Analysis & Programming**: <br/>
-Python, R, SQL (MySQL, PostgreSQL, SQL Server, SSMS), Statistical Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook, JupyterLab, ETL, SQL Joins and Data Modeling, Stored Procedures <br/>
+•	**Data Analysis & Programming:**  R, Python, SQL (Structured Query Language, including  MySQL, PostgreSQL, SQL Server, SSMS), BI software (PowerBI), Python Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn), Jupyter Notebook, JupyterLab, ETL, SQL Queries and Joins, Data Modeling and Stored Procedures
 
-•	**Machine Learning & AI**: <br/>
-Scikit-learn, Regression Analysis, Classification Algorithms, Hypothesis Testing, Model Evaluation, Data Preprocessing, Data Cleaning <br/>
+•	**Machine Learning & AI:** Scikit-learn, TensorFlow, Regression Analysis, Classification Algorithms, Hypothesis Testing, Model Evaluation, Data Preprocessing, Data Cleaning
 
-•	**Dev Tools & Workflow**: <br/>
-Git, GitHub, Jira, Microsoft Visio, Agile/Scrum, Workflow Automation <br/>
+•	**Dev Tools & Workflow:** JIRA documentation , Git, GitHub, Microsoft Visio, Agile/Scrum/Waterfall, Workflow Automation
 
-•	**Bonus Tools**:  <br/>
-3D Modeling, Adobe CC, Microsoft Office and Excel, WordPress, Figma, HTML, CSS, Mothur <br/>
+•	**Bonus Tools:**  3D Modeling, Adobe CC, Microsoft Office and Excel, WordPress, Figma, HTML, CSS
 
 
 
