@@ -5,7 +5,7 @@ Welcome to my repository! I'm a data analyst and developer based in Washington s
 
 I developed strong programming skills through independent study and a programming certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in business and science. 
 
-Below you will find a collection of my work - Python projects, ML models, statistical analyses, SQL, database development, and other fun stuff.
+Below you will find a collection of my work - Machine Learning models, SQL queries, statistical analyses, database development, Python projects, and other fun stuff.
 
 I am happy to connect with potential employers and collaborators who share my passions. Please feel welcome to message me with comments or questions. 
 
