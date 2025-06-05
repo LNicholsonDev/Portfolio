@@ -13,23 +13,27 @@ Thanks for visiting!
 
 
 ## PROJECTS
-DEV160 Repository – Collection of scripts written to learn Python I. <br />
-**Link**: [DEV160]( https://github.com/gitplants/Dev160)
 
-DEV128 Repository - Collection of larger programs written to learn Python II. <br />
-**Link**: [DEV128](https://github.com/gitplants/DEV128---Python.git)
+Machine Learning<br />
+**Link**: [AI240](https://github.com/gitplants/AI240)
 
-BA240 Repository - Final Regression Analysis Project<br />
-**Link**: [Regression Analysis](https://github.com/gitplants/Discrete-Math.git)
+Data Visualization<br />
+**Link**: [DEV228](https://github.com/LNicholsonDev/Data-Visualization)
 
-AI101 - Final Project - Results from Training an AI<br />
-**Link**: [Youtube Class Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
-
-DEV140 - Database Theory and Design (DDL and DML)<br />
+Database Theory and Design (DDL and DML)<br />
 **Link**: [DEV140](https://github.com/gitplants/DEV140)
 
-AI240 - Machine Learning (In-progress)<br />
-**Link**: [AI240](https://github.com/gitplants/AI240)
+Python Programming Basics – Collection of scripts written to learn Python I. <br />
+**Link**: [DEV160]( https://github.com/gitplants/Dev160)
+
+Python Programming Intermediate - Collection of larger programs written to learn Python II. <br />
+**Link**: [DEV128](https://github.com/gitplants/DEV128---Python.git)
+
+Discrete Mathematics - Final Regression Analysis Project<br />
+**Link**: [Regression Analysis](https://github.com/gitplants/Discrete-Math.git)
+
+Final Project - Results from Training an AI<br />
+**Link**: [Youtube Class Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
 
 
 
