@@ -33,7 +33,7 @@ Discrete Mathematics - Final Regression Analysis Project<br />
 **Link**: [Regression Analysis](https://github.com/gitplants/Discrete-Math.git)
 
 Final Project - Results from Training an AI<br />
-**Link**: [Youtube Class Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
+**Link**: [Youtube Presentation Recording](https://www.youtube.com/watch?v=KTVI6keVRbs&t=620s)
 
 
 
