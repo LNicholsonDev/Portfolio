@@ -3,7 +3,7 @@
 ## ABOUT ME
 Welcome to my repository! I'm a data analyst and developer based in Washington state. I'm excited to share my projects with you through this portfolio. 
 
-I developed strong programming skills through independent study and a programming certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in business and science. 
+I developed strong programming skills through independent study and a programming certification this year (2025). My passion for data science is driven by a desire to tackle challenging problems in business, science, and healthcare. 
 
 Below you will find a collection of my work - Machine Learning models, SQL queries, statistical analyses, database development, Python projects, and other fun stuff.
 
